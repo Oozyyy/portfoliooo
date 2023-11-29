@@ -1,0 +1,12 @@
+header {
+    background-color: black;
+    text-align: center;
+    color:  white;
+    padding: 20px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
